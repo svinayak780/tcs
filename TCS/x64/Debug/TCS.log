@@ -1,0 +1,20 @@
+﻿  Admin.cpp
+c:\users\vinayak sharma\source\repos\tcs\student_add.h(981): warning C4101: 'reader': unreferenced local variable
+c:\users\vinayak sharma\source\repos\tcs\manage_staff.h(1390): warning C4101: 'reader': unreferenced local variable
+c:\users\vinayak sharma\source\repos\tcs\manage_result.h(1619): warning C4101: 'reader': unreferenced local variable
+c:\users\vinayak sharma\source\repos\tcs\manage_result.h(1638): warning C4101: 'reader': unreferenced local variable
+  Entry.cpp
+c:\users\vinayak sharma\source\repos\tcs\student_add.h(981): warning C4101: 'reader': unreferenced local variable
+c:\users\vinayak sharma\source\repos\tcs\manage_staff.h(1390): warning C4101: 'reader': unreferenced local variable
+c:\users\vinayak sharma\source\repos\tcs\manage_result.h(1619): warning C4101: 'reader': unreferenced local variable
+c:\users\vinayak sharma\source\repos\tcs\manage_result.h(1638): warning C4101: 'reader': unreferenced local variable
+  Manage_Result.cpp
+c:\users\vinayak sharma\source\repos\tcs\manage_result.h(1619): warning C4101: 'reader': unreferenced local variable
+c:\users\vinayak sharma\source\repos\tcs\manage_result.h(1638): warning C4101: 'reader': unreferenced local variable
+  Staff.cpp
+c:\users\vinayak sharma\source\repos\tcs\student_add.h(981): warning C4101: 'reader': unreferenced local variable
+c:\users\vinayak sharma\source\repos\tcs\manage_result.h(1619): warning C4101: 'reader': unreferenced local variable
+c:\users\vinayak sharma\source\repos\tcs\manage_result.h(1638): warning C4101: 'reader': unreferenced local variable
+  Generating Code...
+  Admin.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  TCS.vcxproj -> C:\Users\Vinayak Sharma\source\repos\x64\Debug\TCS.exe
